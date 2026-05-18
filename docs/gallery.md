@@ -1,10 +1,10 @@
 ## 🖼️ 魔法画廊总览
 
-完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 443。
+完整画廊已按 GitHub 渲染体积拆成两册，避免页面被截断；当前总案例数为 444。
 
 - [返回 README 首页](../README.md)
 - [Part 1：例 1-165](./gallery-part-1.md)
-- [Part 2：例 166-443](./gallery-part-2.md)
+- [Part 2：例 166-444](./gallery-part-2.md)
 - [工业级提示词模板与防坑指南](./templates.md)
 - [声明、Star 趋势图与公众号](./disclaimer.md)
 
@@ -111,11 +111,12 @@
 - [例 441：WILDCAMP 巨型帐篷广告海报](./gallery-part-2.md#case-441)
 - [例 442：舒适发廊插画](./gallery-part-2.md#case-442)
 - [例 443：塔可爆炸拆解信息图](./gallery-part-2.md#case-443)
+- [例 444：迪斯科镜面 3D App 图标](./gallery-part-2.md#case-444)
 
 ## 分册说明
 
 - `gallery-part-1.md`：例 1-165，覆盖信息图、界面、海报、摄影、插画等基础主流类型。
-- `gallery-part-2.md`：例 166-443，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
+- `gallery-part-2.md`：例 166-444，包含更多品牌、卡牌、直播截图、国风、商业视觉、作者新增实测与社区案例。
 
 ## 分类概览
 
@@ -123,7 +124,7 @@
 - 图表与信息可视化：46
 - 海报与排版：71
 - 商品与电商：31
-- 品牌与标志：21
+- 品牌与标志：22
 - 建筑与空间：11
 - 摄影与写实：55
 - 插画与艺术：42
@@ -368,7 +369,7 @@
 
 <a name="cat-brand"></a>
 
-### 🏷️ 品牌与标志 · 21 cases
+### 🏷️ 品牌与标志 · 22 cases
 
 - [例 130：界面交互设计图](./gallery-part-1.md#case-130)
 - [例 132：界面交互设计图](./gallery-part-1.md#case-132)
@@ -390,6 +391,7 @@
 - [例 362：抹茶品牌触点系统视觉板](./gallery-part-2.md#case-362)
 - [例 379：品牌人格漫画信息图](./gallery-part-2.md#case-379)
 - [例 386：品牌包络产品广告](./gallery-part-2.md#case-386)
+- [例 444：迪斯科镜面 3D App 图标](./gallery-part-2.md#case-444)
 
 <a name="cat-architecture"></a>
 

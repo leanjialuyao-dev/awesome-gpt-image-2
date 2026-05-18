@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/stars/freestylefly/awesome-gpt-image-2?style=flat-square&color=rgb(25%2C%20121%2C%20255)" alt="Stars"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/github/forks/freestylefly/awesome-gpt-image-2?style=flat-square&color=green" alt="Forks"></a>
-  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-443-blueviolet?style=flat-square" alt="Cases"></a>
+  <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/Cases-444-blueviolet?style=flat-square" alt="Cases"></a>
   <a href="https://github.com/freestylefly/awesome-gpt-image-2"><img src="https://img.shields.io/badge/100%25-Original_AI_Rewritten-green?style=flat-square" alt="Original"></a>
 </p>
 
@@ -50,7 +50,7 @@ The core goal is simple: compress prose-style prompts into structured protocols.
 
 - [Full case gallery](docs/gallery.md)
 - [Gallery Part 1: cases 1-165](docs/gallery-part-1.md)
-- [Gallery Part 2: cases 166-443](docs/gallery-part-2.md)
+- [Gallery Part 2: cases 166-444](docs/gallery-part-2.md)
 - [Industrial prompt templates and pitfalls guide](docs/templates.md)
 - [Agent skill: GPT-Image2 Style Library](agents/skills/gpt-image-2-style-library/SKILL.md)
 - [MIT License](LICENSE)
@@ -91,7 +91,7 @@ Start with the case album to find a visual direction, then open the prompt templ
       <a href="docs/gallery.md#cat-product"><strong>View Cases</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
-      <p><strong>🏷️ Brand & Logos</strong><br><sub>21 cases</sub></p>
+      <p><strong>🏷️ Brand & Logos</strong><br><sub>22 cases</sub></p>
       <a href="docs/gallery.md#cat-brand"><img src="data/images/category-covers/brand.jpg" alt="Brand and logos" width="220"></a><br>
       <sub>Logos, identity systems, brand touchpoints, and campaign visuals.</sub><br>
       <a href="docs/gallery.md#cat-brand"><strong>View Cases</strong></a>
@@ -153,14 +153,14 @@ Start with the case album to find a visual direction, then open the prompt templ
     <td width="33%" valign="top" align="center">
       <h4>🖼️ Full Gallery</h4>
       <a href="docs/gallery.md"><img src="data/images/category-covers/gallery.jpg" alt="Full gallery" width="220"></a><br>
-      <sub>Browse all 443 cases by gallery part and category.</sub><br>
+      <sub>Browse all 444 cases by gallery part and category.</sub><br>
       <a href="docs/gallery.md"><strong>Open Gallery</strong></a>
     </td>
     <td width="33%" valign="top" align="center">
       <h4>⭐ Latest Additions</h4>
-      <a href="docs/gallery-part-2.md#case-443"><img src="data/images/case443.jpg" alt="Latest additions" width="220"></a><br>
+      <a href="docs/gallery-part-2.md#case-444"><img src="data/images/case444.jpg" alt="Latest additions" width="220"></a><br>
       <sub>The newest community cases and workflows collected in the repo.</sub><br>
-      <a href="docs/gallery-part-2.md#case-443"><strong>View Latest</strong></a>
+      <a href="docs/gallery-part-2.md#case-444"><strong>View Latest</strong></a>
     </td>
   </tr>
 </table>
@@ -427,31 +427,11 @@ Only the latest collection and import run is shown here. Older imports stay in t
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <p><strong>Case 440: FaceTime Work Screen Phone Photo</strong></p>
-      <a href="docs/gallery-part-2.md#case-440"><img src="data/images/case440.jpg" alt="FaceTime work screen phone photo" width="140"></a><br>
-      <sub>A raw smartphone photo of a Mac laptop screen with Notes, Finder thumbnails, FaceTime preview, screen grain, reflections, and handheld imperfections.</sub><br>
-      <a href="docs/gallery-part-2.md#case-440"><strong>View Case</strong></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <p><strong>Case 441: WILDCAMP Giant Tent Poster</strong></p>
-      <a href="docs/gallery-part-2.md#case-441"><img src="data/images/case441.jpg" alt="WILDCAMP giant tent poster" width="140"></a><br>
-      <sub>A cinematic outdoor adventure ad poster with oversized tent scale, campfire lighting, starry sky typography, and product-logo placement.</sub><br>
-      <a href="docs/gallery-part-2.md#case-441"><strong>View Case</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <p><strong>Case 442: Cozy Hair Salon Illustration</strong></p>
-      <a href="docs/gallery-part-2.md#case-442"><img src="data/images/case442.jpg" alt="Cozy hair salon illustration" width="140"></a><br>
-      <sub>A colorful editorial illustration of an indie salon with playful retro decor, expressive characters, plants, beauty tools, and painterly texture.</sub><br>
-      <a href="docs/gallery-part-2.md#case-442"><strong>View Case</strong></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <p><strong>Case 443: Taco Exploded Infographic</strong></p>
-      <a href="docs/gallery-part-2.md#case-443"><img src="data/images/case443.jpg" alt="Taco exploded infographic" width="140"></a><br>
-      <sub>A clean food infographic that stacks taco ingredients vertically with labels, pointer lines, realistic shadows, and commercial food texture.</sub><br>
-      <a href="docs/gallery-part-2.md#case-443"><strong>View Case</strong></a>
+    <td width="100%" valign="top" align="center">
+      <p><strong>Case 444: Disco-Mirror 3D App Icon</strong></p>
+      <a href="docs/gallery-part-2.md#case-444"><img src="data/images/case444.jpg" alt="Disco-mirror 3D app icon" width="180"></a><br>
+      <sub>A reusable app-icon prompt for glass, chrome, disco-ball mosaic tiles, glossy highlights, and clean high-end product-icon rendering.</sub><br>
+      <a href="docs/gallery-part-2.md#case-444"><strong>View Case</strong></a>
     </td>
   </tr>
 </table>
